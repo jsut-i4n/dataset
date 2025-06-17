@@ -1,0 +1,1000 @@
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 0, start time: 12:00, end time: 12:05
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.249966666666673, Avg Profit(USD): 8.452118919619718
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.37% , 3)50ms~200ms: 10.98% , 4)20ms~50ms: 23.63% , 5)<20ms: 64.01% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.45833333333331, Avg Profit(USD): 0.7852956008185353
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.72% , 3)50ms~200ms: 57.76% , 4)20ms~50ms: 20.58% , 5)<20ms: 7.94% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.99166666666667, Avg Profit(USD): 3.20330525603522
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.98% , 4)20ms~50ms: 44.54% , 5)<20ms: 29.48% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.199615384615385, Avg Profit(USD): 6.170195180875187
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.89% , 4)20ms~50ms: 40.4% , 5)<20ms: 53.71% 
+Left Users: 25, Max Delay(ms): 70.0, Avg Delay(ms): 11.186800000000003, Avg Profit(USD): 12.641751753330762
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.67% , 5)<20ms: 90.25% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 1, start time: 12:05, end time: 12:10
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.2758, Avg Profit(USD): 8.450213526415347
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.38% , 3)50ms~200ms: 10.97% , 4)20ms~50ms: 23.65% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.58033333333333, Avg Profit(USD): 0.7851834714602719
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.82% , 3)50ms~200ms: 57.63% , 4)20ms~50ms: 20.63% , 5)<20ms: 7.92% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 33.080000000000005, Avg Profit(USD): 3.1980268995328247
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 26.1% , 4)20ms~50ms: 44.45% , 5)<20ms: 29.44% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.183333333333334, Avg Profit(USD): 6.175730214641532
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.8% , 4)20ms~50ms: 40.46% , 5)<20ms: 53.74% 
+Left Users: 25, Max Delay(ms): 70.0, Avg Delay(ms): 11.1978, Avg Profit(USD): 12.636563115055852
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.69% , 5)<20ms: 90.23% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 2, start time: 12:10, end time: 12:15
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.1751, Avg Profit(USD): 8.452233941057742
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.38% , 3)50ms~200ms: 10.78% , 4)20ms~50ms: 23.84% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.42099999999999, Avg Profit(USD): 0.806234136139594
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.79% , 3)50ms~200ms: 57.43% , 4)20ms~50ms: 20.67% , 5)<20ms: 8.12% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.62976190476191, Avg Profit(USD): 3.20246258340229
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.3% , 4)20ms~50ms: 45.25% , 5)<20ms: 29.45% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.09397435897436, Avg Profit(USD): 6.17768192878683
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.6% , 4)20ms~50ms: 40.67% , 5)<20ms: 53.73% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.2008, Avg Profit(USD): 12.634136928565773
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.73% , 5)<20ms: 90.19% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 3, start time: 12:15, end time: 12:20
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.217033333333333, Avg Profit(USD): 8.45362281444706
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.36% , 3)50ms~200ms: 10.94% , 4)20ms~50ms: 23.7% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.327, Avg Profit(USD): 0.7898992839949072
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.6% , 3)50ms~200ms: 57.81% , 4)20ms~50ms: 20.64% , 5)<20ms: 7.95% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.78333333333334, Avg Profit(USD): 3.2233234951669667
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.6% , 4)20ms~50ms: 44.78% , 5)<20ms: 29.62% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.217179487179486, Avg Profit(USD): 6.162970792262501
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.9% , 4)20ms~50ms: 40.48% , 5)<20ms: 53.62% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.196400000000002, Avg Profit(USD): 12.64199038147189
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.69% , 5)<20ms: 90.23% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 4, start time: 12:20, end time: 12:25
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.172699999999995, Avg Profit(USD): 8.447562143417764
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.35% , 3)50ms~200ms: 10.93% , 4)20ms~50ms: 23.73% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 99.84933333333333, Avg Profit(USD): 0.8119048449964841
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.45% , 3)50ms~200ms: 57.66% , 4)20ms~50ms: 20.76% , 5)<20ms: 8.13% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.91428571428571, Avg Profit(USD): 3.203660096553831
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.82% , 4)20ms~50ms: 44.68% , 5)<20ms: 29.5% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.144102564102564, Avg Profit(USD): 6.179173248652498
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.81% , 4)20ms~50ms: 40.38% , 5)<20ms: 53.81% 
+Left Users: 25, Max Delay(ms): 90.0, Avg Delay(ms): 11.2046, Avg Profit(USD): 12.622548401501858
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.07% , 4)20ms~50ms: 9.79% , 5)<20ms: 90.13% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 5, start time: 12:25, end time: 12:30
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.11753333333334, Avg Profit(USD): 8.444990796655691
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.32% , 3)50ms~200ms: 10.96% , 4)20ms~50ms: 23.72% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 99.10799999999998, Avg Profit(USD): 0.8072109622122079
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.21% , 3)50ms~200ms: 57.69% , 4)20ms~50ms: 21.01% , 5)<20ms: 8.1% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 33.009047619047614, Avg Profit(USD): 3.2070963987331598
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.98% , 4)20ms~50ms: 44.5% , 5)<20ms: 29.52% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.15192307692308, Avg Profit(USD): 6.168056043216186
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.78% , 4)20ms~50ms: 40.5% , 5)<20ms: 53.73% 
+Left Users: 25, Max Delay(ms): 70.0, Avg Delay(ms): 11.211933333333334, Avg Profit(USD): 12.623163266751243
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.1% , 4)20ms~50ms: 9.73% , 5)<20ms: 90.18% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 6, start time: 12:30, end time: 12:35
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.263000000000005, Avg Profit(USD): 8.452598327267726
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.39% , 3)50ms~200ms: 10.95% , 4)20ms~50ms: 23.66% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.55533333333332, Avg Profit(USD): 0.7895910550182763
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.86% , 3)50ms~200ms: 57.48% , 4)20ms~50ms: 20.69% , 5)<20ms: 7.97% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.920476190476194, Avg Profit(USD): 3.2174263140624393
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.96% , 4)20ms~50ms: 44.46% , 5)<20ms: 29.58% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.266282051282047, Avg Profit(USD): 6.141447498466661
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.91% , 4)20ms~50ms: 40.6% , 5)<20ms: 53.48% 
+Left Users: 25, Max Delay(ms): 70.0, Avg Delay(ms): 11.178733333333334, Avg Profit(USD): 12.652846376391656
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.07% , 4)20ms~50ms: 9.62% , 5)<20ms: 90.31% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 7, start time: 12:35, end time: 12:40
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.144800000000004, Avg Profit(USD): 8.445307455987749
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.34% , 3)50ms~200ms: 10.91% , 4)20ms~50ms: 23.75% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 99.75733333333335, Avg Profit(USD): 0.800144634511216
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.42% , 3)50ms~200ms: 57.77% , 4)20ms~50ms: 20.76% , 5)<20ms: 8.04% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.74357142857142, Avg Profit(USD): 3.225116282576668
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.58% , 4)20ms~50ms: 44.81% , 5)<20ms: 29.61% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.150000000000002, Avg Profit(USD): 6.160884132864601
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.76% , 4)20ms~50ms: 40.59% , 5)<20ms: 53.66% 
+Left Users: 25, Max Delay(ms): 90.0, Avg Delay(ms): 11.211933333333333, Avg Profit(USD): 12.62389367686219
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.11% , 4)20ms~50ms: 9.69% , 5)<20ms: 90.2% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 8, start time: 12:40, end time: 12:45
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.1709, Avg Profit(USD): 8.449567024187054
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.36% , 3)50ms~200ms: 10.88% , 4)20ms~50ms: 23.76% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.02833333333334, Avg Profit(USD): 0.8047763881923721
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.58% , 3)50ms~200ms: 57.55% , 4)20ms~50ms: 20.8% , 5)<20ms: 8.07% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.92214285714286, Avg Profit(USD): 3.199320950043101
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.78% , 4)20ms~50ms: 44.74% , 5)<20ms: 29.48% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.086666666666666, Avg Profit(USD): 6.169484619399498
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.7% , 4)20ms~50ms: 40.57% , 5)<20ms: 53.73% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.192866666666667, Avg Profit(USD): 12.634236902635829
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.07% , 4)20ms~50ms: 9.74% , 5)<20ms: 90.19% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 9, start time: 12:45, end time: 12:50
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.15533333333333, Avg Profit(USD): 8.45083398562709
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.34% , 3)50ms~200ms: 10.96% , 4)20ms~50ms: 23.7% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 99.32566666666666, Avg Profit(USD): 0.8135475762517234
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.39% , 3)50ms~200ms: 57.36% , 4)20ms~50ms: 21.08% , 5)<20ms: 8.17% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 33.13595238095238, Avg Profit(USD): 3.1679252610172792
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 26.1% , 4)20ms~50ms: 44.73% , 5)<20ms: 29.17% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.19128205128205, Avg Profit(USD): 6.162847301706325
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.88% , 4)20ms~50ms: 40.47% , 5)<20ms: 53.65% 
+Left Users: 25, Max Delay(ms): 90.0, Avg Delay(ms): 11.188, Avg Profit(USD): 12.64725878603171
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.62% , 5)<20ms: 90.3% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 10, start time: 12:50, end time: 12:55
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.121233333333333, Avg Profit(USD): 8.44794484156129
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.33% , 3)50ms~200ms: 10.96% , 4)20ms~50ms: 23.72% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 98.916, Avg Profit(USD): 0.8185666963966531
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.27% , 3)50ms~200ms: 57.4% , 4)20ms~50ms: 21.15% , 5)<20ms: 8.18% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 33.14190476190476, Avg Profit(USD): 3.1938896792696205
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 26.13% , 4)20ms~50ms: 44.45% , 5)<20ms: 29.42% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.2224358974359, Avg Profit(USD): 6.158764637820907
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.86% , 4)20ms~50ms: 40.51% , 5)<20ms: 53.63% 
+Left Users: 25, Max Delay(ms): 70.0, Avg Delay(ms): 11.183866666666669, Avg Profit(USD): 12.635329621980881
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.07% , 4)20ms~50ms: 9.7% , 5)<20ms: 90.24% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 11, start time: 12:55, end time: 13:00
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.173033333333326, Avg Profit(USD): 8.449714340643688
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.35% , 3)50ms~200ms: 10.9% , 4)20ms~50ms: 23.74% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 99.85333333333332, Avg Profit(USD): 0.7994049884775467
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.53% , 3)50ms~200ms: 57.48% , 4)20ms~50ms: 20.91% , 5)<20ms: 8.08% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.797380952380955, Avg Profit(USD): 3.211730781102096
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.58% , 4)20ms~50ms: 44.86% , 5)<20ms: 29.56% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.234102564102564, Avg Profit(USD): 6.146232164228715
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.89% , 4)20ms~50ms: 40.6% , 5)<20ms: 53.5% 
+Left Users: 25, Max Delay(ms): 70.0, Avg Delay(ms): 11.190400000000002, Avg Profit(USD): 12.644222339484344
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.09% , 4)20ms~50ms: 9.63% , 5)<20ms: 90.28% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 12, start time: 13:00, end time: 13:05
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.182799999999993, Avg Profit(USD): 8.45371219066699
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.36% , 3)50ms~200ms: 10.91% , 4)20ms~50ms: 23.73% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 99.79166666666666, Avg Profit(USD): 0.8060979921966128
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.58% , 3)50ms~200ms: 57.5% , 4)20ms~50ms: 20.8% , 5)<20ms: 8.12% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.92, Avg Profit(USD): 3.2188880744648207
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.79% , 4)20ms~50ms: 44.62% , 5)<20ms: 29.59% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.219102564102567, Avg Profit(USD): 6.137625297869694
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.79% , 4)20ms~50ms: 40.78% , 5)<20ms: 53.43% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.195733333333333, Avg Profit(USD): 12.653350967152258
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.09% , 4)20ms~50ms: 9.61% , 5)<20ms: 90.3% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 13, start time: 13:05, end time: 13:10
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.073499999999996, Avg Profit(USD): 8.45223346206548
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.31% , 3)50ms~200ms: 10.9% , 4)20ms~50ms: 23.79% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 98.96433333333333, Avg Profit(USD): 0.8113098481422867
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.09% , 3)50ms~200ms: 57.78% , 4)20ms~50ms: 21.0% , 5)<20ms: 8.13% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.902857142857144, Avg Profit(USD): 3.208424294094873
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.76% , 4)20ms~50ms: 44.74% , 5)<20ms: 29.5% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.117564102564103, Avg Profit(USD): 6.165665591958059
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.68% , 4)20ms~50ms: 40.67% , 5)<20ms: 53.65% 
+Left Users: 25, Max Delay(ms): 90.0, Avg Delay(ms): 11.2002, Avg Profit(USD): 12.637700044337748
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.7% , 5)<20ms: 90.22% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 14, start time: 13:10, end time: 13:15
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.264066666666682, Avg Profit(USD): 8.450326395156639
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.39% , 3)50ms~200ms: 10.95% , 4)20ms~50ms: 23.66% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.56300000000002, Avg Profit(USD): 0.7961731282683879
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.86% , 3)50ms~200ms: 57.52% , 4)20ms~50ms: 20.59% , 5)<20ms: 8.03% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 33.069047619047616, Avg Profit(USD): 3.2078842378434556
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 26.13% , 4)20ms~50ms: 44.33% , 5)<20ms: 29.54% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.191666666666663, Avg Profit(USD): 6.145963493864796
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.8% , 4)20ms~50ms: 40.71% , 5)<20ms: 53.49% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.176533333333333, Avg Profit(USD): 12.647309561253737
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.07% , 4)20ms~50ms: 9.62% , 5)<20ms: 90.31% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 15, start time: 13:15, end time: 13:20
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.295499999999986, Avg Profit(USD): 8.449518694119156
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.38% , 3)50ms~200ms: 10.98% , 4)20ms~50ms: 23.64% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.73133333333332, Avg Profit(USD): 0.799256080150981
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.78% , 3)50ms~200ms: 57.67% , 4)20ms~50ms: 20.53% , 5)<20ms: 8.02% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.995, Avg Profit(USD): 3.2006568444186203
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.9% , 4)20ms~50ms: 44.65% , 5)<20ms: 29.44% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.274358974358975, Avg Profit(USD): 6.152776093515579
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.96% , 4)20ms~50ms: 40.47% , 5)<20ms: 53.57% 
+Left Users: 25, Max Delay(ms): 100.0, Avg Delay(ms): 11.183466666666666, Avg Profit(USD): 12.643558687142804
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.62% , 5)<20ms: 90.3% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 16, start time: 13:20, end time: 13:25
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.22253333333333, Avg Profit(USD): 8.449733878224777
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.36% , 3)50ms~200ms: 10.98% , 4)20ms~50ms: 23.67% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.29766666666666, Avg Profit(USD): 0.7984285760721925
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.55% , 3)50ms~200ms: 57.91% , 4)20ms~50ms: 20.51% , 5)<20ms: 8.03% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.84904761904762, Avg Profit(USD): 3.241540037945691
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.82% , 4)20ms~50ms: 44.38% , 5)<20ms: 29.8% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.19217948717949, Avg Profit(USD): 6.161165329794021
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.87% , 4)20ms~50ms: 40.49% , 5)<20ms: 53.64% 
+Left Users: 25, Max Delay(ms): 100.0, Avg Delay(ms): 11.207866666666668, Avg Profit(USD): 12.62834485911743
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.09% , 4)20ms~50ms: 9.75% , 5)<20ms: 90.16% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 17, start time: 13:25, end time: 13:30
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.10493333333332, Avg Profit(USD): 8.44785212914392
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.35% , 3)50ms~200ms: 10.85% , 4)20ms~50ms: 23.8% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 99.45400000000001, Avg Profit(USD): 0.8080968717146632
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.46% , 3)50ms~200ms: 57.57% , 4)20ms~50ms: 20.85% , 5)<20ms: 8.12% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.69404761904762, Avg Profit(USD): 3.2174280728467854
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.4% , 4)20ms~50ms: 45.02% , 5)<20ms: 29.58% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.145897435897435, Avg Profit(USD): 6.1590482773617605
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.74% , 4)20ms~50ms: 40.59% , 5)<20ms: 53.67% 
+Left Users: 25, Max Delay(ms): 100.0, Avg Delay(ms): 11.208866666666669, Avg Profit(USD): 12.630499919319695
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.09% , 4)20ms~50ms: 9.72% , 5)<20ms: 90.19% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 18, start time: 13:30, end time: 13:35
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.342966666666676, Avg Profit(USD): 8.450857249410285
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.38% , 3)50ms~200ms: 11.06% , 4)20ms~50ms: 23.56% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 101.25299999999999, Avg Profit(USD): 0.7790615955685232
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.84% , 3)50ms~200ms: 58.08% , 4)20ms~50ms: 20.26% , 5)<20ms: 7.83% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.94428571428571, Avg Profit(USD): 3.1978802340363215
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.9% , 4)20ms~50ms: 44.63% , 5)<20ms: 29.46% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.33153846153846, Avg Profit(USD): 6.1364381641201735
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 6.12% , 4)20ms~50ms: 40.47% , 5)<20ms: 53.41% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.158533333333331, Avg Profit(USD): 12.659547868834206
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.06% , 4)20ms~50ms: 9.53% , 5)<20ms: 90.41% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 19, start time: 13:35, end time: 13:40
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.173566666666673, Avg Profit(USD): 8.449543961141616
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.37% , 3)50ms~200ms: 10.87% , 4)20ms~50ms: 23.76% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.09299999999999, Avg Profit(USD): 0.7971654688131531
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.71% , 3)50ms~200ms: 57.54% , 4)20ms~50ms: 20.72% , 5)<20ms: 8.03% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.65071428571429, Avg Profit(USD): 3.2345714778778483
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.43% , 4)20ms~50ms: 44.79% , 5)<20ms: 29.78% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.20102564102564, Avg Profit(USD): 6.1566197188424825
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.83% , 4)20ms~50ms: 40.57% , 5)<20ms: 53.59% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.201799999999999, Avg Profit(USD): 12.632532560916713
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.73% , 5)<20ms: 90.19% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 20, start time: 13:40, end time: 13:45
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.272266666666667, Avg Profit(USD): 8.446114463109444
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.4% , 3)50ms~200ms: 10.91% , 4)20ms~50ms: 23.69% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.80666666666667, Avg Profit(USD): 0.7893794966070554
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.97% , 3)50ms~200ms: 57.45% , 4)20ms~50ms: 20.63% , 5)<20ms: 7.95% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.88952380952381, Avg Profit(USD): 3.2148588089757952
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.73% , 4)20ms~50ms: 44.68% , 5)<20ms: 29.59% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.19923076923077, Avg Profit(USD): 6.160405610713177
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.86% , 4)20ms~50ms: 40.53% , 5)<20ms: 53.61% 
+Left Users: 25, Max Delay(ms): 90.0, Avg Delay(ms): 11.190533333333333, Avg Profit(USD): 12.630781642813401
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.68% , 5)<20ms: 90.25% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 21, start time: 13:45, end time: 13:50
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.260033333333332, Avg Profit(USD): 8.450308815362657
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.38% , 3)50ms~200ms: 10.94% , 4)20ms~50ms: 23.68% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.53866666666667, Avg Profit(USD): 0.7961579515189844
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.77% , 3)50ms~200ms: 57.47% , 4)20ms~50ms: 20.7% , 5)<20ms: 8.06% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 33.24071428571428, Avg Profit(USD): 3.16995217523989
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 26.32% , 4)20ms~50ms: 44.48% , 5)<20ms: 29.2% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.07128205128205, Avg Profit(USD): 6.169611859423739
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.66% , 4)20ms~50ms: 40.6% , 5)<20ms: 53.74% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.187866666666665, Avg Profit(USD): 12.645601264454005
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.66% , 5)<20ms: 90.27% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 22, start time: 13:50, end time: 13:55
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.345866666666673, Avg Profit(USD): 8.44932960014513
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.41% , 3)50ms~200ms: 10.92% , 4)20ms~50ms: 23.67% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 101.737, Avg Profit(USD): 0.7712652808714425
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:14.1% , 3)50ms~200ms: 57.8% , 4)20ms~50ms: 20.29% , 5)<20ms: 7.8% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.65904761904762, Avg Profit(USD): 3.2290667634668666
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.4% , 4)20ms~50ms: 44.92% , 5)<20ms: 29.68% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.20384615384615, Avg Profit(USD): 6.190535383568776
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.93% , 4)20ms~50ms: 40.18% , 5)<20ms: 53.89% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.213800000000003, Avg Profit(USD): 12.621189050889486
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.81% , 5)<20ms: 90.11% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 23, start time: 13:55, end time: 14:00
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.24876666666666, Avg Profit(USD): 8.451233636112455
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.39% , 3)50ms~200ms: 10.86% , 4)20ms~50ms: 23.76% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.79633333333334, Avg Profit(USD): 0.7990406291628789
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.85% , 3)50ms~200ms: 57.47% , 4)20ms~50ms: 20.62% , 5)<20ms: 8.05% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.84214285714285, Avg Profit(USD): 3.202630406427564
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.62% , 4)20ms~50ms: 44.91% , 5)<20ms: 29.47% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.138846153846153, Avg Profit(USD): 6.16686426268954
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.74% , 4)20ms~50ms: 40.59% , 5)<20ms: 53.67% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.190266666666666, Avg Profit(USD): 12.639153215994064
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.06% , 4)20ms~50ms: 9.71% , 5)<20ms: 90.23% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 24, start time: 14:00, end time: 14:05
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.329366666666665, Avg Profit(USD): 8.447894683953615
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.41% , 3)50ms~200ms: 10.96% , 4)20ms~50ms: 23.64% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 101.40566666666666, Avg Profit(USD): 0.7762060627508411
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:14.07% , 3)50ms~200ms: 57.86% , 4)20ms~50ms: 20.23% , 5)<20ms: 7.85% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 33.04309523809523, Avg Profit(USD): 3.198288468798302
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 26.0% , 4)20ms~50ms: 44.52% , 5)<20ms: 29.48% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.07269230769231, Avg Profit(USD): 6.18045725153119
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.71% , 4)20ms~50ms: 40.45% , 5)<20ms: 53.84% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.207733333333332, Avg Profit(USD): 12.631189613297318
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.09% , 4)20ms~50ms: 9.73% , 5)<20ms: 90.18% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 25, start time: 14:05, end time: 14:10
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.291266666666665, Avg Profit(USD): 8.451071638322702
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.4% , 3)50ms~200ms: 10.91% , 4)20ms~50ms: 23.69% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 101.17166666666665, Avg Profit(USD): 0.7866762255821045
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:14.0% , 3)50ms~200ms: 57.63% , 4)20ms~50ms: 20.47% , 5)<20ms: 7.91% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.87761904761904, Avg Profit(USD): 3.203966607394081
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.74% , 4)20ms~50ms: 44.8% , 5)<20ms: 29.45% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.111794871794874, Avg Profit(USD): 6.1847691422471325
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.77% , 4)20ms~50ms: 40.42% , 5)<20ms: 53.82% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.204333333333336, Avg Profit(USD): 12.631617427490129
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.73% , 5)<20ms: 90.19% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 26, start time: 14:10, end time: 14:15
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.06273333333333, Avg Profit(USD): 8.44537319870223
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.3% , 3)50ms~200ms: 10.92% , 4)20ms~50ms: 23.77% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 98.87700000000001, Avg Profit(USD): 0.8147851607859621
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.04% , 3)50ms~200ms: 57.8% , 4)20ms~50ms: 21.03% , 5)<20ms: 8.14% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.708571428571425, Avg Profit(USD): 3.235196235664449
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.56% , 4)20ms~50ms: 44.66% , 5)<20ms: 29.78% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.19705128205128, Avg Profit(USD): 6.1613053310676165
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.86% , 4)20ms~50ms: 40.45% , 5)<20ms: 53.69% 
+Left Users: 25, Max Delay(ms): 90.0, Avg Delay(ms): 11.2092, Avg Profit(USD): 12.618055647106058
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.8% , 5)<20ms: 90.12% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 27, start time: 14:15, end time: 14:20
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.228733333333327, Avg Profit(USD): 8.449611125615947
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.38% , 3)50ms~200ms: 10.91% , 4)20ms~50ms: 23.71% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.18366666666667, Avg Profit(USD): 0.8042729034575956
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.84% , 3)50ms~200ms: 57.18% , 4)20ms~50ms: 20.89% , 5)<20ms: 8.09% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.8252380952381, Avg Profit(USD): 3.2125218071231627
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.6% , 4)20ms~50ms: 44.8% , 5)<20ms: 29.6% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.310897435897434, Avg Profit(USD): 6.140276889680049
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 6.01% , 4)20ms~50ms: 40.51% , 5)<20ms: 53.47% 
+Left Users: 25, Max Delay(ms): 70.0, Avg Delay(ms): 11.188, Avg Profit(USD): 12.645917581912263
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.63% , 5)<20ms: 90.29% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 28, start time: 14:20, end time: 14:25
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.209299999999992, Avg Profit(USD): 8.450115681113523
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.37% , 3)50ms~200ms: 10.88% , 4)20ms~50ms: 23.74% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.37833333333333, Avg Profit(USD): 0.7903695802397906
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.74% , 3)50ms~200ms: 57.56% , 4)20ms~50ms: 20.73% , 5)<20ms: 7.96% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.790238095238095, Avg Profit(USD): 3.2043547696821633
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.59% , 4)20ms~50ms: 44.91% , 5)<20ms: 29.5% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.150769230769235, Avg Profit(USD): 6.178407723548605
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.78% , 4)20ms~50ms: 40.49% , 5)<20ms: 53.74% 
+Left Users: 25, Max Delay(ms): 90.0, Avg Delay(ms): 11.203266666666664, Avg Profit(USD): 12.632166094422812
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.09% , 4)20ms~50ms: 9.71% , 5)<20ms: 90.2% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 29, start time: 14:25, end time: 14:30
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.247033333333327, Avg Profit(USD): 8.45103236839056
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.36% , 3)50ms~200ms: 10.98% , 4)20ms~50ms: 23.66% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.38400000000001, Avg Profit(USD): 0.7882675929528102
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.64% , 3)50ms~200ms: 57.78% , 4)20ms~50ms: 20.64% , 5)<20ms: 7.94% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.86666666666667, Avg Profit(USD): 3.206884129578208
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.67% , 4)20ms~50ms: 44.82% , 5)<20ms: 29.51% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.277051282051286, Avg Profit(USD): 6.155875351265137
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 6.04% , 4)20ms~50ms: 40.36% , 5)<20ms: 53.59% 
+Left Users: 25, Max Delay(ms): 70.0, Avg Delay(ms): 11.190533333333333, Avg Profit(USD): 12.645428479250791
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.07% , 4)20ms~50ms: 9.65% , 5)<20ms: 90.28% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 30, start time: 14:30, end time: 14:35
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.313333333333333, Avg Profit(USD): 8.448848113215227
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.38% , 3)50ms~200ms: 10.97% , 4)20ms~50ms: 23.64% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 101.05933333333333, Avg Profit(USD): 0.7941772295196527
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.85% , 3)50ms~200ms: 57.77% , 4)20ms~50ms: 20.41% , 5)<20ms: 7.97% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.955000000000005, Avg Profit(USD): 3.196782070350864
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.9% , 4)20ms~50ms: 44.66% , 5)<20ms: 29.44% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.24, Avg Profit(USD): 6.1590486539630405
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.91% , 4)20ms~50ms: 40.46% , 5)<20ms: 53.63% 
+Left Users: 25, Max Delay(ms): 70.0, Avg Delay(ms): 11.1826, Avg Profit(USD): 12.6410565007675
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.07% , 4)20ms~50ms: 9.66% , 5)<20ms: 90.27% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 31, start time: 14:35, end time: 14:40
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.171166666666668, Avg Profit(USD): 8.449015268547912
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.33% , 3)50ms~200ms: 10.99% , 4)20ms~50ms: 23.67% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 99.39233333333334, Avg Profit(USD): 0.8136570480519721
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.34% , 3)50ms~200ms: 57.58% , 4)20ms~50ms: 20.94% , 5)<20ms: 8.14% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 33.19833333333333, Avg Profit(USD): 3.1536288440228604
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 26.2% , 4)20ms~50ms: 44.72% , 5)<20ms: 29.08% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.197179487179486, Avg Profit(USD): 6.164375510790433
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.87% , 4)20ms~50ms: 40.46% , 5)<20ms: 53.67% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.1858, Avg Profit(USD): 12.646807785548006
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.6% , 5)<20ms: 90.32% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 32, start time: 14:40, end time: 14:45
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.265233333333335, Avg Profit(USD): 8.446622039290888
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.4% , 3)50ms~200ms: 10.9% , 4)20ms~50ms: 23.7% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.78800000000001, Avg Profit(USD): 0.7968157133630311
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:14.03% , 3)50ms~200ms: 57.27% , 4)20ms~50ms: 20.65% , 5)<20ms: 8.05% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.75380952380952, Avg Profit(USD): 3.2390766848757604
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.68% , 4)20ms~50ms: 44.51% , 5)<20ms: 29.81% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.217435897435898, Avg Profit(USD): 6.165866309664556
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.91% , 4)20ms~50ms: 40.41% , 5)<20ms: 53.68% 
+Left Users: 25, Max Delay(ms): 70.0, Avg Delay(ms): 11.20873333333333, Avg Profit(USD): 12.620688983118393
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.78% , 5)<20ms: 90.13% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 33, start time: 14:45, end time: 14:50
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.091566666666676, Avg Profit(USD): 8.447416944166326
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.31% , 3)50ms~200ms: 10.98% , 4)20ms~50ms: 23.71% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 98.707, Avg Profit(USD): 0.8172667271838424
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.07% , 3)50ms~200ms: 57.59% , 4)20ms~50ms: 21.14% , 5)<20ms: 8.2% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.911428571428566, Avg Profit(USD): 3.2006942418170206
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.84% , 4)20ms~50ms: 44.68% , 5)<20ms: 29.48% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.31153846153846, Avg Profit(USD): 6.144408712287213
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 6.04% , 4)20ms~50ms: 40.42% , 5)<20ms: 53.53% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.18453333333333, Avg Profit(USD): 12.640093624797766
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.07% , 4)20ms~50ms: 9.66% , 5)<20ms: 90.27% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 34, start time: 14:50, end time: 14:55
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.08783333333334, Avg Profit(USD): 8.450105553919308
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.33% , 3)50ms~200ms: 10.9% , 4)20ms~50ms: 23.77% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 98.81700000000001, Avg Profit(USD): 0.8178265703861775
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.32% , 3)50ms~200ms: 57.18% , 4)20ms~50ms: 21.31% , 5)<20ms: 8.2% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.86452380952381, Avg Profit(USD): 3.2251469258483176
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.82% , 4)20ms~50ms: 44.54% , 5)<20ms: 29.64% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.292692307692306, Avg Profit(USD): 6.12994970690036
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.91% , 4)20ms~50ms: 40.72% , 5)<20ms: 53.36% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.177999999999999, Avg Profit(USD): 12.646030806935665
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.06% , 4)20ms~50ms: 9.62% , 5)<20ms: 90.31% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 35, start time: 14:55, end time: 15:00
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.243399999999994, Avg Profit(USD): 8.449279783203002
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.4% , 3)50ms~200ms: 10.87% , 4)20ms~50ms: 23.73% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.55866666666667, Avg Profit(USD): 0.7955459208656412
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:14.04% , 3)50ms~200ms: 57.09% , 4)20ms~50ms: 20.85% , 5)<20ms: 8.02% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.947380952380946, Avg Profit(USD): 3.205981297123628
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.9% , 4)20ms~50ms: 44.61% , 5)<20ms: 29.49% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.13769230769231, Avg Profit(USD): 6.1687798174897495
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.73% , 4)20ms~50ms: 40.62% , 5)<20ms: 53.65% 
+Left Users: 25, Max Delay(ms): 70.0, Avg Delay(ms): 11.198199999999998, Avg Profit(USD): 12.634010113943596
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.68% , 5)<20ms: 90.24% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 36, start time: 15:00, end time: 15:05
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.09816666666666, Avg Profit(USD): 8.446787225184288
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.34% , 3)50ms~200ms: 10.86% , 4)20ms~50ms: 23.8% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 99.23466666666667, Avg Profit(USD): 0.8116483875779715
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.41% , 3)50ms~200ms: 57.45% , 4)20ms~50ms: 20.99% , 5)<20ms: 8.15% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.848571428571425, Avg Profit(USD): 3.2236810372147424
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.72% , 4)20ms~50ms: 44.6% , 5)<20ms: 29.68% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.104102564102565, Avg Profit(USD): 6.167726908218474
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.65% , 4)20ms~50ms: 40.62% , 5)<20ms: 53.73% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.217666666666666, Avg Profit(USD): 12.62139609015925
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.1% , 4)20ms~50ms: 9.78% , 5)<20ms: 90.12% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 37, start time: 15:05, end time: 15:10
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.2036, Avg Profit(USD): 8.448451876631815
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.36% , 3)50ms~200ms: 10.89% , 4)20ms~50ms: 23.75% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.26633333333334, Avg Profit(USD): 0.7996367039964223
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.64% , 3)50ms~200ms: 57.6% , 4)20ms~50ms: 20.72% , 5)<20ms: 8.04% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.699285714285715, Avg Profit(USD): 3.234829943300798
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.43% , 4)20ms~50ms: 44.83% , 5)<20ms: 29.74% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.22474358974359, Avg Profit(USD): 6.153041066319182
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.86% , 4)20ms~50ms: 40.57% , 5)<20ms: 53.57% 
+Left Users: 25, Max Delay(ms): 90.0, Avg Delay(ms): 11.201266666666669, Avg Profit(USD): 12.631642673854145
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.71% , 5)<20ms: 90.21% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 38, start time: 15:10, end time: 15:15
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.162700000000015, Avg Profit(USD): 8.447956155627244
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.34% , 3)50ms~200ms: 10.95% , 4)20ms~50ms: 23.71% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 99.59200000000001, Avg Profit(USD): 0.7993893641380603
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.44% , 3)50ms~200ms: 57.6% , 4)20ms~50ms: 20.92% , 5)<20ms: 8.04% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.80428571428572, Avg Profit(USD): 3.2366484249825196
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.67% , 4)20ms~50ms: 44.54% , 5)<20ms: 29.79% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.291410256410256, Avg Profit(USD): 6.135594240365321
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.97% , 4)20ms~50ms: 40.61% , 5)<20ms: 53.42% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.190266666666664, Avg Profit(USD): 12.639263874441808
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.65% , 5)<20ms: 90.27% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 39, start time: 15:15, end time: 15:20
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.119033333333327, Avg Profit(USD): 8.44731632050316
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.31% , 3)50ms~200ms: 11.04% , 4)20ms~50ms: 23.65% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 98.77966666666667, Avg Profit(USD): 0.8242263557919013
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.12% , 3)50ms~200ms: 57.6% , 4)20ms~50ms: 21.02% , 5)<20ms: 8.26% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 33.160476190476196, Avg Profit(USD): 3.1970092983560408
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 26.36% , 4)20ms~50ms: 44.24% , 5)<20ms: 29.4% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.266153846153845, Avg Profit(USD): 6.136399791592327
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.95% , 4)20ms~50ms: 40.59% , 5)<20ms: 53.45% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.178800000000003, Avg Profit(USD): 12.643696874680241
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.6% , 5)<20ms: 90.32% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 40, start time: 15:20, end time: 15:25
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.158366666666666, Avg Profit(USD): 8.45088619285102
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.35% , 3)50ms~200ms: 10.94% , 4)20ms~50ms: 23.72% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 99.678, Avg Profit(USD): 0.7987606648520227
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.46% , 3)50ms~200ms: 57.73% , 4)20ms~50ms: 20.78% , 5)<20ms: 8.03% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.83238095238095, Avg Profit(USD): 3.228474309395376
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.72% , 4)20ms~50ms: 44.59% , 5)<20ms: 29.69% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.185641025641026, Avg Profit(USD): 6.167766236468945
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.85% , 4)20ms~50ms: 40.45% , 5)<20ms: 53.7% 
+Left Users: 25, Max Delay(ms): 100.0, Avg Delay(ms): 11.211533333333332, Avg Profit(USD): 12.630809003137076
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.09% , 4)20ms~50ms: 9.76% , 5)<20ms: 90.15% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 41, start time: 15:25, end time: 15:30
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.16016666666667, Avg Profit(USD): 8.451318945463054
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.33% , 3)50ms~200ms: 10.92% , 4)20ms~50ms: 23.74% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 99.87966666666668, Avg Profit(USD): 0.804618932453741
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.33% , 3)50ms~200ms: 58.02% , 4)20ms~50ms: 20.56% , 5)<20ms: 8.08% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.72619047619047, Avg Profit(USD): 3.248792273925742
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.49% , 4)20ms~50ms: 44.63% , 5)<20ms: 29.88% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.168589743589745, Avg Profit(USD): 6.157650185537054
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.81% , 4)20ms~50ms: 40.59% , 5)<20ms: 53.6% 
+Left Users: 25, Max Delay(ms): 70.0, Avg Delay(ms): 11.213400000000002, Avg Profit(USD): 12.63007417125689
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.09% , 4)20ms~50ms: 9.77% , 5)<20ms: 90.14% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 42, start time: 15:30, end time: 15:35
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.220466666666663, Avg Profit(USD): 8.44647016732305
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.4% , 3)50ms~200ms: 10.88% , 4)20ms~50ms: 23.72% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.23933333333333, Avg Profit(USD): 0.811401077500966
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:14.0% , 3)50ms~200ms: 56.97% , 4)20ms~50ms: 20.86% , 5)<20ms: 8.17% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.89071428571428, Avg Profit(USD): 3.1877534308420183
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.72% , 4)20ms~50ms: 44.96% , 5)<20ms: 29.31% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.200641025641026, Avg Profit(USD): 6.163523394157415
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.91% , 4)20ms~50ms: 40.41% , 5)<20ms: 53.68% 
+Left Users: 25, Max Delay(ms): 70.0, Avg Delay(ms): 11.199333333333335, Avg Profit(USD): 12.633056993548285
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.09% , 4)20ms~50ms: 9.67% , 5)<20ms: 90.24% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 43, start time: 15:35, end time: 15:40
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.315766666666654, Avg Profit(USD): 8.447410156464723
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.4% , 3)50ms~200ms: 10.9% , 4)20ms~50ms: 23.69% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 101.503, Avg Profit(USD): 0.7782023176209276
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:14.02% , 3)50ms~200ms: 57.81% , 4)20ms~50ms: 20.29% , 5)<20ms: 7.88% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.65714285714286, Avg Profit(USD): 3.2327763929594004
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.39% , 4)20ms~50ms: 44.87% , 5)<20ms: 29.74% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.235384615384618, Avg Profit(USD): 6.139631321842182
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.88% , 4)20ms~50ms: 40.67% , 5)<20ms: 53.45% 
+Left Users: 25, Max Delay(ms): 70.0, Avg Delay(ms): 11.184533333333338, Avg Profit(USD): 12.641394172018698
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.62% , 5)<20ms: 90.3% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 44, start time: 15:40, end time: 15:45
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.17146666666666, Avg Profit(USD): 8.449583104774925
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.34% , 3)50ms~200ms: 11.01% , 4)20ms~50ms: 23.64% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 99.36733333333333, Avg Profit(USD): 0.817096377405079
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.44% , 3)50ms~200ms: 57.45% , 4)20ms~50ms: 20.91% , 5)<20ms: 8.21% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 33.09071428571429, Avg Profit(USD): 3.1735623571803124
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 26.1% , 4)20ms~50ms: 44.65% , 5)<20ms: 29.25% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.28679487179487, Avg Profit(USD): 6.134670756353361
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 6.03% , 4)20ms~50ms: 40.54% , 5)<20ms: 53.43% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.174933333333332, Avg Profit(USD): 12.6571206807546
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.09% , 4)20ms~50ms: 9.53% , 5)<20ms: 90.39% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 45, start time: 15:45, end time: 15:50
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.142833333333343, Avg Profit(USD): 8.45076738402533
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.34% , 3)50ms~200ms: 10.93% , 4)20ms~50ms: 23.73% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 99.39233333333334, Avg Profit(USD): 0.8123492814769371
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.41% , 3)50ms~200ms: 57.37% , 4)20ms~50ms: 21.07% , 5)<20ms: 8.15% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.90142857142857, Avg Profit(USD): 3.1990417791747787
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.85% , 4)20ms~50ms: 44.68% , 5)<20ms: 29.47% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.217692307692303, Avg Profit(USD): 6.169280667042402
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.9% , 4)20ms~50ms: 40.43% , 5)<20ms: 53.67% 
+Left Users: 25, Max Delay(ms): 90.0, Avg Delay(ms): 11.2016, Avg Profit(USD): 12.635307266724285
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.09% , 4)20ms~50ms: 9.7% , 5)<20ms: 90.21% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 46, start time: 15:50, end time: 15:55
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.05613333333333, Avg Profit(USD): 8.449578413435177
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.32% , 3)50ms~200ms: 10.87% , 4)20ms~50ms: 23.81% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 98.80333333333333, Avg Profit(USD): 0.8209294409160531
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.18% , 3)50ms~200ms: 57.51% , 4)20ms~50ms: 21.08% , 5)<20ms: 8.23% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.82714285714285, Avg Profit(USD): 3.2004705080253872
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.65% , 4)20ms~50ms: 44.91% , 5)<20ms: 29.45% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.147051282051283, Avg Profit(USD): 6.157316437060636
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.7% , 4)20ms~50ms: 40.68% , 5)<20ms: 53.62% 
+Left Users: 25, Max Delay(ms): 70.0, Avg Delay(ms): 11.203533333333331, Avg Profit(USD): 12.637034649168502
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.09% , 4)20ms~50ms: 9.68% , 5)<20ms: 90.23% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 47, start time: 15:55, end time: 16:00
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.209566666666667, Avg Profit(USD): 8.447133849293026
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.33% , 3)50ms~200ms: 11.02% , 4)20ms~50ms: 23.64% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 99.66266666666667, Avg Profit(USD): 0.8085126875885915
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.32% , 3)50ms~200ms: 57.77% , 4)20ms~50ms: 20.8% , 5)<20ms: 8.11% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 33.22857142857143, Avg Profit(USD): 3.1913426521122568
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 26.4% , 4)20ms~50ms: 44.22% , 5)<20ms: 29.38% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.231025641025642, Avg Profit(USD): 6.160598273015278
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.83% , 4)20ms~50ms: 40.51% , 5)<20ms: 53.66% 
+Left Users: 25, Max Delay(ms): 70.0, Avg Delay(ms): 11.182466666666668, Avg Profit(USD): 12.635478116508962
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.07% , 4)20ms~50ms: 9.68% , 5)<20ms: 90.25% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 48, start time: 16:00, end time: 16:05
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.269633333333342, Avg Profit(USD): 8.451578649905661
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.38% , 3)50ms~200ms: 10.95% , 4)20ms~50ms: 23.67% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 100.69500000000002, Avg Profit(USD): 0.7922938727346214
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.81% , 3)50ms~200ms: 57.63% , 4)20ms~50ms: 20.62% , 5)<20ms: 7.93% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 33.042380952380945, Avg Profit(USD): 3.209156270315092
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 26.04% , 4)20ms~50ms: 44.38% , 5)<20ms: 29.58% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.125, Avg Profit(USD): 6.191079461403073
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.75% , 4)20ms~50ms: 40.4% , 5)<20ms: 53.85% 
+Left Users: 25, Max Delay(ms): 80.0, Avg Delay(ms): 11.203399999999997, Avg Profit(USD): 12.62677344964658
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.79% , 5)<20ms: 90.13% 
+
+Simulator step: 0
+Simulator step: 1000
+Simulator step: 2000
+Simulator step: 3000
+Simulator step: 4000
+Simulator step: 5000
+------------------------
+Cycle: 49, start time: 16:05, end time: 16:10
+------------------------
+Total Users: 50, Max Delay(ms): 260.0, Avg Delay(ms): 25.16173333333334, Avg Profit(USD): 8.448697281853224
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:1.35% , 3)50ms~200ms: 10.91% , 4)20ms~50ms: 23.74% , 5)<20ms: 64.0% 
+Worst 10% Users: 5, Max Delay(ms): 260.0, Avg Delay(ms): 99.80566666666667, Avg Profit(USD): 0.7976292924653983
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:13.48% , 3)50ms~200ms: 57.68% , 4)20ms~50ms: 20.84% , 5)<20ms: 8.0% 
+Worst 25% Users: 7, Max Delay(ms): 100.0, Avg Delay(ms): 32.82833333333333, Avg Profit(USD): 3.2132766297990254
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 25.65% , 4)20ms~50ms: 44.78% , 5)<20ms: 29.57% 
+Worst 50% Users: 13, Max Delay(ms): 100.0, Avg Delay(ms): 19.210641025641028, Avg Profit(USD): 6.147065322927722
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 5.82% , 4)20ms~50ms: 40.67% , 5)<20ms: 53.51% 
+Left Users: 25, Max Delay(ms): 90.0, Avg Delay(ms): 11.180866666666665, Avg Profit(USD): 12.641677280947228
+Delay distribution: 1) >1000ms:0.0% , 2)200ms~1000ms:0.0% , 3)50ms~200ms: 0.08% , 4)20ms~50ms: 9.63% , 5)<20ms: 90.3% 
+
